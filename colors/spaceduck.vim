@@ -66,8 +66,8 @@ hi SpellCap guifg=#5ccc96 ctermfg=78 guibg=NONE ctermbg=NONE gui=underline cterm
 hi SpellRare guifg=#f2ce00 ctermfg=220 guibg=NONE ctermbg=NONE gui=underline cterm=underline
 hi StatusLine guifg=#1b1c36 ctermfg=255 guibg=#5ccc96 ctermbg=233 gui=reverse cterm=reverse
 hi link StatusLineTerm StatusLine
-hi StatusLineTermNC guifg=#1b1c36 ctermfg=255 guibg=#5ccc96 ctermbg=233 gui=reverse cterm=reverse
-hi link StatusLineNC StatusLineTermNC
+hi StatusLineNC guifg=#1b1c36 ctermfg=255 guibg=#5ccc96 ctermbg=233 gui=reverse cterm=reverse
+hi link StatusLineTermNC StatusLineNC
 hi TabLine guifg=#000000 ctermfg=0 guibg=#818596 ctermbg=102 gui=NONE cterm=NONE
 hi TabLineFill guifg=#818596 ctermfg=102 guibg=#000000 ctermbg=0 gui=NONE cterm=NONE
 hi TabLineSel guifg=#c1c3cc ctermfg=251 guibg=#0f111b ctermbg=233 gui=NONE cterm=NONE
